@@ -1,6 +1,6 @@
 # C Sample Code
 
-The smaple code of C programming language. The followings are the basic instrcution about each lab. For more details, please check the PDF instructions in each directory.
+The sample code of C programming language. The followings are the basic instrcution about each lab. For more details, please check the PDF instructions in each directory.
 
 ## Lab 1
 - Calculate the sum using three different ways.
